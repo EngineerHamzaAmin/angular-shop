@@ -1,3 +1,6 @@
+# Live Demo
+{Click Here}(https://angular-shop-3c539.firebaseapp.com) to see live demo
+
 # Ashop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
