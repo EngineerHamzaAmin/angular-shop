@@ -1,5 +1,5 @@
 # Live Demo
-{Click Here}(https://angular-shop-3c539.firebaseapp.com) to see live demo
+[Click Here](https://angular-shop-3c539.firebaseapp.com) to see live demo. One small issue is that when you login in angular-shop website, then you would be directed to some other page , kindly go back to the url given , because there is small problem in redirecting to home page after login in live demo. It would be ok on local machine
 
 # Ashop
 
