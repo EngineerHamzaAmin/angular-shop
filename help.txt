@@ -1,0 +1,1 @@
+angular 'data-table' element is not known element. If 'data-table' is an angular componet, then verify that it is a part of angular module. 2.If 'data-table' is a Web component then add 'CUSTOM_ELEMENTS_SCHEMA' to the @NgModule.schemas of the component to suppress this message
