@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
+# Installation
+First of all create a new project in firebase and then import angular-firebase.json file from the given project's root directory to the firebase project's database.
+Then run the project in local machine through angular cli but also install npm to the local machine.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
